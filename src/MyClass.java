@@ -22,9 +22,8 @@ public class MyClass {
         // techpro değişiklik 3
         System.out.println("techpro3");
 
-        //github değişiklik
 
-
+        //dev brachinde değişiklik
 
 
 
