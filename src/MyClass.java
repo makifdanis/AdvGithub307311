@@ -8,6 +8,9 @@ public class MyClass {
         //değişiklik 2
         System.out.println("Adv Githun dersine hoşgeldiniz");
 
+        // değişiklik 3
+        System.out.println("bu derste branchler işlenecek");
+
 
 
 
